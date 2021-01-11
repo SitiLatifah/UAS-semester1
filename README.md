@@ -23,23 +23,23 @@
 
 ![Screenshot (1)](https://user-images.githubusercontent.com/73010098/104206888-acf1fb80-5462-11eb-9f9b-1af0f972444e.png)
 
-* **Output daftar_nilai*
+* **Output daftar_nilai**
 
 ![Screenshot (3)](https://user-images.githubusercontent.com/73010098/104208130-18d46400-5463-11eb-9d11-e5a5d68748ff.png)
 
-* **Output ubah_data*
+* **Output ubah_data**
 
 ![Screenshot (4)](https://user-images.githubusercontent.com/73010098/104208684-5a650f00-5463-11eb-9f1e-4b0953865278.png)
 
-* **Output cari_data*
+* **Output cari_data**
 
 ![Screenshot (5)](https://user-images.githubusercontent.com/73010098/104208843-8ed8cb00-5463-11eb-9f0d-24429521711c.png)
 
-* **Output hapus_data*
+* **Output hapus_data**
 
-Screenshot (35)](https://user-images.githubusercontent.com/73010098/104209295-1a525c00-5464-11eb-8558-ed5833f252da.png)
+![Screenshot (35)](https://user-images.githubusercontent.com/73010098/104209295-1a525c00-5464-11eb-8558-ed5833f252da.png)
 
-* **Output break*
+* **Output break**
 
 ![Screenshot (21)](https://user-images.githubusercontent.com/73010098/104209566-7c12c600-5464-11eb-94af-a6ac0cb9c13b.png)
 

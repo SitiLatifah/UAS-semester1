@@ -17,6 +17,8 @@
 * ``input_nilai.py`` berisi modul untuk :
     * input_data (yang meminta pengguna memasukkan data).
 * ``main.py`` berisi program utama (menu pilihan yang memanggil semua menu yang ada).
+
+
 * **Output tambah_data**
 ![Screenshot (1)](https://user-images.githubusercontent.com/73010098/104206888-acf1fb80-5462-11eb-9f9b-1af0f972444e.png)
 * **Output daftar_nilai*
